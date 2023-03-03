@@ -1,0 +1,3 @@
+include ':xpermission'
+include ':app'
+rootProject.name = "XPermissions"
